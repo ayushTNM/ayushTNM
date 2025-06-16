@@ -14,7 +14,7 @@
 </p>
 
 <!-- Top Languages & Repos-Per-Language side by side -->
-<div style="
+<div align="center" style="
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
